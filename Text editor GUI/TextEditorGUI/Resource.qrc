@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Images/Clear.png</file>
+        <file>Images/countLines.png</file>
+        <file>Images/decrypt.png</file>
+        <file>Images/encrypt.png</file>
+        <file>Images/firstCaps.png</file>
+        <file>Images/Lowercase.png</file>
+        <file>Images/Merge.png</file>
+        <file>Images/search.png</file>
+        <file>Images/Searchword.png</file>
+        <file>Images/Txt.png</file>
+        <file>Images/Uppercase.png</file>
+        <file>Images/wordcount.png</file>
+        <file>Images/About.png</file>
+        <file>Images/save.png</file>
+        <file>Images/SaveAs.png</file>
+        <file>Images/character.png</file>
+        <file>Images/exit.png</file>
+        <file>Images/new.png</file>
+        <file>Images/Open.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
